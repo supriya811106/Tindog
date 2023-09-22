@@ -2,7 +2,7 @@
 
 Welcome to the TinDog repository, the fun and playful platform connecting dog enthusiasts everywhere. It's not just humans searching for love; our furry friends are too!
 
-![TinDog Screenshot](link-to-screenshot-image-if-you-have-one)
+![TinDog Screenshot](https://github.com/supriya811106/Tindog/assets/89856408/656c610b-c0c8-4f1b-bc9d-7cdd29092d0a))
 
 ## Features
 
