@@ -1,4 +1,4 @@
-# TinDog - Where Dogs Meet Their Match! 🐕💖
+# TinDog - Where Dogs Meet Their Match!
 
 Welcome to the TinDog repository, the fun and playful platform connecting dog enthusiasts everywhere. It's not just humans searching for love; our furry friends are too!
 
