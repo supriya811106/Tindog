@@ -27,4 +27,4 @@ Welcome to the TinDog repository, the fun and playful platform connecting dog en
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/supriya811106/TinDog.git
+   git clone https://github.com/supriya811106/Tindog.git
